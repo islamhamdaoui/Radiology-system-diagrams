@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="564" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -938,6 +938,64 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="397.75" y="5781" as="sourcePoint" />
             <mxPoint x="146.25" y="5781" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-152" value="&lt;p&gt;&lt;strong&gt;Diagramme de séquence Réceptionniste / Administrateur &amp;lt;&amp;lt;&quot;Consulter les patients non payés&quot;&amp;gt;&amp;gt;&lt;/strong&gt;&lt;/p&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="5944" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-154" value="Réceptionniste" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="91.5" y="5990" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-155" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RD8XI5-YYCdPqqoqer4K-154">
+          <mxGeometry x="45.5" y="140" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-156" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="5990" width="99.5" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-157" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RD8XI5-YYCdPqqoqer4K-156">
+          <mxGeometry x="45" y="140" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-158" value="bdd" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="5990" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-159" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RD8XI5-YYCdPqqoqer4K-158">
+          <mxGeometry x="45.5" y="205" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-160" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=55;height=20;labelBackgroundColor=none;container=0;gradientColor=none;swimlaneFillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="6047" width="581" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-161" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;S&#39;authentifier&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="6070" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-162" value="Sélectionner la page des patients non payés" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
+            <mxPoint x="146.24761904761903" y="6150.5" as="sourcePoint" />
+            <mxPoint x="397.75" y="6150.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-163" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher la liste des patients non payés&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="397.75" y="6275" as="sourcePoint" />
+            <mxPoint x="146.25" y="6275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-164" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Requêter les patients non payés&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="406.997619047619" y="6210" as="sourcePoint" />
+            <mxPoint x="658.5" y="6210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-165" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Retourner les données des patients non payés&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="658.75" y="6241" as="sourcePoint" />
+            <mxPoint x="407.25" y="6241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RD8XI5-YYCdPqqoqer4K-166" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher la page des patients non payés&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="397.75" y="6181" as="sourcePoint" />
+            <mxPoint x="146.25" y="6181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
