@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="611" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1507,6 +1507,64 @@
               <mxPoint x="449.74" y="9750" />
             </Array>
             <mxPoint x="419.74" y="9750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-68" value="&lt;p&gt;Diagramme de séquence Administrateur &amp;lt;&amp;lt;Consulter l&#39;Historique des Actions&amp;gt;&amp;gt;&lt;/p&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="301.25" y="9960" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-71" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Administrateur&amp;nbsp;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="109" y="10020" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-71">
+          <mxGeometry x="45.5" y="140" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-73" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="370" y="10020" width="99.5" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-73">
+          <mxGeometry x="45" y="140" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-75" value="bdd" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="630" y="10020" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-75">
+          <mxGeometry x="45.5" y="205" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-77" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=55;height=20;labelBackgroundColor=none;container=0;gradientColor=none;swimlaneFillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="10077" width="581" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;S&#39;authentifier&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="339.5" y="10100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-79" value="Accéder à la section &quot;Historique des Actions&quot;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
+            <mxPoint x="163.74761904761903" y="10180.5" as="sourcePoint" />
+            <mxPoint x="415.25" y="10180.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-80" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher l&#39;historique des actions&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="415.25" y="10305" as="sourcePoint" />
+            <mxPoint x="163.75" y="10305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-81" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Requêter pour récupérer l&#39;historique des actions&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="424.497619047619" y="10240" as="sourcePoint" />
+            <mxPoint x="676" y="10240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-82" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Retourner les données de l&#39;historique&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="676.25" y="10271" as="sourcePoint" />
+            <mxPoint x="424.75" y="10271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-83" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher la page&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="415.25" y="10211" as="sourcePoint" />
+            <mxPoint x="163.75" y="10211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
