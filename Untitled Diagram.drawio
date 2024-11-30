@@ -1586,7 +1586,7 @@
           <mxGeometry x="611" y="10490" width="100" height="430" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-92" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-91">
-          <mxGeometry x="45.5" y="50" width="10" height="340" as="geometry" />
+          <mxGeometry x="45.5" y="50" width="10" height="370" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-96" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher le formulaire&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
