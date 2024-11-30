@@ -1568,101 +1568,101 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-84" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Diagramme de séquence Patient &amp;lt;&amp;lt;Réserver un Rendez-vous&amp;gt;&amp;gt;&lt;/strong&gt;&lt;/p&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="13210" width="80" height="26" as="geometry" />
+          <mxGeometry x="256.5" y="13680" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-87" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Patient&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="76" y="13263" width="100" height="430" as="geometry" />
+          <mxGeometry x="122.5" y="13733" width="100" height="430" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-88" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-87">
           <mxGeometry x="45.5" y="50" width="10" height="370" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-89" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="337" y="13263" width="99.5" height="430" as="geometry" />
+          <mxGeometry x="383.5" y="13733" width="99.5" height="430" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-90" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-89">
           <mxGeometry x="45" y="50" width="10" height="370" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-91" value="bdd" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="597" y="13263" width="100" height="430" as="geometry" />
+          <mxGeometry x="643.5" y="13733" width="100" height="430" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-92" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-91">
           <mxGeometry x="45.5" y="50" width="10" height="370" as="geometry" />
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-96" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher le formulaire&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="382.25" y="13548" as="sourcePoint" />
-            <mxPoint x="130.75" y="13548" as="targetPoint" />
+            <mxPoint x="428.75" y="14018" as="sourcePoint" />
+            <mxPoint x="177.25" y="14018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-97" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Envoyer les données du nouveau rendez-vous&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="390.997619047619" y="13603" as="sourcePoint" />
-            <mxPoint x="642.5" y="13603" as="targetPoint" />
+            <mxPoint x="437.497619047619" y="14073" as="sourcePoint" />
+            <mxPoint x="689" y="14073" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-98" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Confirmer la réservation&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="642.5" y="13637" as="sourcePoint" />
-            <mxPoint x="391" y="13637" as="targetPoint" />
+            <mxPoint x="689" y="14107" as="sourcePoint" />
+            <mxPoint x="437.5" y="14107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-99" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher les détails du service sélectionné&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="382" y="13477" as="sourcePoint" />
-            <mxPoint x="130.5" y="13477" as="targetPoint" />
+            <mxPoint x="428.5" y="13947" as="sourcePoint" />
+            <mxPoint x="177" y="13947" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-100" value="&lt;div&gt;Accéder à la page des services disponibles&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
-            <mxPoint x="131.24761904761903" y="13333" as="sourcePoint" />
-            <mxPoint x="382.75" y="13333" as="targetPoint" />
+            <mxPoint x="177.74761904761903" y="13803" as="sourcePoint" />
+            <mxPoint x="429.25" y="13803" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-101" value="Requêter pour récupérer les services disponibles" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
-            <mxPoint x="390.497619047619" y="13363" as="sourcePoint" />
-            <mxPoint x="642" y="13363" as="targetPoint" />
+            <mxPoint x="436.997619047619" y="13833" as="sourcePoint" />
+            <mxPoint x="688.5" y="13833" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-102" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Retourner les services disponibles&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="643.5" y="13392" as="sourcePoint" />
-            <mxPoint x="392" y="13392" as="targetPoint" />
+            <mxPoint x="690" y="13862" as="sourcePoint" />
+            <mxPoint x="438.5" y="13862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-103" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher la liste des services de radiologie&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="382.75" y="13413" as="sourcePoint" />
-            <mxPoint x="131.25" y="13413" as="targetPoint" />
+            <mxPoint x="429.25" y="13883" as="sourcePoint" />
+            <mxPoint x="177.75" y="13883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-104" value="Sélectionner un service de radiologie" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
-            <mxPoint x="131.24761904761903" y="13444" as="sourcePoint" />
-            <mxPoint x="382.75" y="13444" as="targetPoint" />
+            <mxPoint x="177.74761904761903" y="13914" as="sourcePoint" />
+            <mxPoint x="429.25" y="13914" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-106" value="Sélectionner &quot;réserver un rendez-vous&quot;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
-            <mxPoint x="131.24761904761903" y="13513" as="sourcePoint" />
-            <mxPoint x="382.75" y="13513" as="targetPoint" />
+            <mxPoint x="177.74761904761903" y="13983" as="sourcePoint" />
+            <mxPoint x="429.25" y="13983" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-107" value="Remplir le formulaire" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
-            <mxPoint x="131.24761904761903" y="13583" as="sourcePoint" />
-            <mxPoint x="382.75" y="13583" as="targetPoint" />
+            <mxPoint x="177.74761904761903" y="14053" as="sourcePoint" />
+            <mxPoint x="429.25" y="14053" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-108" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher la confirmation de réservation&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="382.75" y="13667" as="sourcePoint" />
-            <mxPoint x="131.25" y="13667" as="targetPoint" />
+            <mxPoint x="429.25" y="14137" as="sourcePoint" />
+            <mxPoint x="177.75" y="14137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt3QuFNJ9UEVFR-oAGGt-122" value="&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Diagramme de séquence Administrateur &amp;lt;&amp;lt;&quot;Consulter les services&quot;&amp;gt;&amp;gt;&lt;/strong&gt;&lt;/p&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -2016,6 +2016,52 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="409.75" y="12839" as="sourcePoint" />
             <mxPoint x="160.25" y="12839" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-205" value="&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Diagramme de séquence Patient &amp;lt;&amp;lt;&quot;Consulter la disponibilité du médecin&quot;&amp;gt;&amp;gt;&lt;/p&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="13250" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-206" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Patient&amp;nbsp;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="145" y="13300" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-207" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-206">
+          <mxGeometry x="45" y="50" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-208" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="406" y="13300" width="99.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-209" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-208">
+          <mxGeometry x="45" y="50" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-210" value="bdd" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="666" y="13300" width="100" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-211" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt3QuFNJ9UEVFR-oAGGt-210">
+          <mxGeometry x="45" y="100" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-214" value="Accéder au site web" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
+            <mxPoint x="200.49761904761903" y="13380" as="sourcePoint" />
+            <mxPoint x="452" y="13380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-216" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Vérifier la disponibilité du médecin&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460.747619047619" y="13411" as="sourcePoint" />
+            <mxPoint x="712.25" y="13411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-217" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Retourner la disponibilité du médecin&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="712.25" y="13448" as="sourcePoint" />
+            <mxPoint x="460.75" y="13448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tt3QuFNJ9UEVFR-oAGGt-218" value="&lt;p style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;Afficher la disponibilité du médecin&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="452" y="13477" as="sourcePoint" />
+            <mxPoint x="200.5" y="13477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
