@@ -238,12 +238,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-89" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="53" y="1170" width="737" height="200" as="geometry" />
+          <mxGeometry x="53" y="1139" width="737" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="DcobZ6v0joHxPr8eltjC-93" value="Demander confirmation pour supprimer le patient" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1" target="DcobZ6v0joHxPr8eltjC-4">
+        <mxCell id="DcobZ6v0joHxPr8eltjC-93" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Demander confirmation pour supprimer le patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="421.25" y="1220" as="sourcePoint" />
-            <mxPoint x="120" y="1220" as="targetPoint" />
+            <mxPoint x="421.25" y="1189" as="sourcePoint" />
+            <mxPoint x="102.66666666666652" y="1188.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-94" value="[Confirmer la suppression]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="1139" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-95" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Confirmer la suppression&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="102" y="1229" as="sourcePoint" />
+            <mxPoint x="422.5" y="1228.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-100" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Supprimer le patient de la base de données&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="424" y="1259" as="sourcePoint" />
+            <mxPoint x="742.5" y="1258.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-101" value="Modifier" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="744" y="1267" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="774" y="1267" />
+              <mxPoint x="774" y="1287" />
+            </Array>
+            <mxPoint x="744" y="1287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-103" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Confirmer la suppression&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="743.25" y="1298" as="sourcePoint" />
+            <mxPoint x="422.6666666666665" y="1298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-105" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Afficher la liste des patients mise à jour&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="421.25" y="1327" as="sourcePoint" />
+            <mxPoint x="102.66666666666652" y="1327.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-108" value="" style="endArrow=none;html=1;rounded=0;exitX=0.005;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="53.684999999999945" y="1350.1999999999998" as="sourcePoint" />
+            <mxPoint x="789.2109999999998" y="1349.54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
