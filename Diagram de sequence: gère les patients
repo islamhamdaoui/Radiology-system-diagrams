@@ -20,7 +20,10 @@
           <mxGeometry x="693" y="79" width="100" height="2080" as="geometry" />
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DcobZ6v0joHxPr8eltjC-7">
-          <mxGeometry x="41.25" y="220" width="17.5" height="50" as="geometry" />
+          <mxGeometry x="41.25" y="220" width="17.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DcobZ6v0joHxPr8eltjC-7">
+          <mxGeometry x="41.25" y="471" width="17.5" height="59" as="geometry" />
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-8" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;gradientColor=none;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="53" y="136" width="740" height="74" as="geometry" />
@@ -52,8 +55,8 @@
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Envoyer la liste des patients&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="733.25" y="340" as="sourcePoint" />
-            <mxPoint x="432" y="340" as="targetPoint" />
+            <mxPoint x="733.25" y="350" as="sourcePoint" />
+            <mxPoint x="432" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-23" value="Chargement" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
@@ -68,8 +71,8 @@
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher la liste des patients&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="413.25" y="364" as="sourcePoint" />
-            <mxPoint x="112" y="364" as="targetPoint" />
+            <mxPoint x="413.25" y="380" as="sourcePoint" />
+            <mxPoint x="112" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-39" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -83,6 +86,36 @@
         </mxCell>
         <mxCell id="DcobZ6v0joHxPr8eltjC-38" value="Ajouter un patient" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DcobZ6v0joHxPr8eltjC-39">
           <mxGeometry x="314" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-45" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Ajouter un patient&quot;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="112" y="460" as="sourcePoint" />
+            <mxPoint x="415.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher le formulaire&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="413.25" y="500" as="sourcePoint" />
+            <mxPoint x="112" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-47" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Remplir le formulaire et soumettre&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="112" y="540" as="sourcePoint" />
+            <mxPoint x="415.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Envoyer les données du nouveau patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="432" y="560" as="sourcePoint" />
+            <mxPoint x="734" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcobZ6v0joHxPr8eltjC-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Enregistrer les informations du patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="733.25" y="600" as="sourcePoint" />
+            <mxPoint x="432" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
