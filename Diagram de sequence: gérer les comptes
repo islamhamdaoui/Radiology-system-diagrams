@@ -147,25 +147,25 @@
         <mxCell id="uspyjHkv_OmER8Pbdpwl-36" value="Modifier un compte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uspyjHkv_OmER8Pbdpwl-33">
           <mxGeometry x="314" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Modifier&quot; sur un patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Modifier&quot; sur un compte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="112" y="740" as="sourcePoint" />
             <mxPoint x="415.5" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-38" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Charger les informations du patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-38" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Charger les informations du compte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="432" y="770" as="sourcePoint" />
             <mxPoint x="734" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Envoyer les informations du patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Envoyer les informations du compte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="733.25" y="810" as="sourcePoint" />
             <mxPoint x="432" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher le formulaire avec&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;les informations du patient&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-40" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Afficher le formulaire avec&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;l&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;es informations du compte&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="411.25" y="850" as="sourcePoint" />
             <mxPoint x="110" y="850" as="targetPoint" />
@@ -180,7 +180,7 @@
         <mxCell id="uspyjHkv_OmER8Pbdpwl-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="734.25" y="920" width="17.5" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mettre à jour les informations du patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mettre à jour les informations du compte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="432" y="930" as="sourcePoint" />
             <mxPoint x="734" y="930" as="targetPoint" />
@@ -240,7 +240,7 @@
             <mxPoint x="415.5" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-53" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Afficher la liste des patients mise à jour&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-53" value="Afficher la liste mise à jour des comptes" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="412.25" y="1000" as="sourcePoint" />
             <mxPoint x="111" y="1000" as="targetPoint" />
@@ -249,7 +249,7 @@
         <mxCell id="uspyjHkv_OmER8Pbdpwl-54" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=none;" vertex="1" parent="1">
           <mxGeometry x="53" y="1139" width="737" height="321" as="geometry" />
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Demander confirmation pour supprimer le patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Demander confirmation pour supprimer le compte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="421.25" y="1189" as="sourcePoint" />
             <mxPoint x="102.66666666666652" y="1188.9999999999998" as="targetPoint" />
@@ -264,7 +264,7 @@
             <mxPoint x="422.5" y="1228.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Supprimer le patient de la base de données&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Supprimer le compte de la base de données&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="424" y="1259" as="sourcePoint" />
             <mxPoint x="742.5" y="1258.9999999999998" as="targetPoint" />
@@ -286,7 +286,7 @@
             <mxPoint x="422.6666666666665" y="1298" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-61" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Afficher la liste des patients mise à jour&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-61" value="Afficher la liste mise à jour des comptes" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="421.25" y="1327" as="sourcePoint" />
             <mxPoint x="102.66666666666652" y="1327.0000000000002" as="targetPoint" />
