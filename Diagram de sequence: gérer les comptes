@@ -231,10 +231,10 @@
         <mxCell id="uspyjHkv_OmER8Pbdpwl-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uspyjHkv_OmER8Pbdpwl-48">
           <mxGeometry x="291.5" y="3" width="157" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-51" value="Supprimer un patient" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uspyjHkv_OmER8Pbdpwl-48">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-51" value="Supprimer un compte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uspyjHkv_OmER8Pbdpwl-48">
           <mxGeometry x="314" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Supprimer&quot; sur un patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Supprimer&quot; sur un compte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="112" y="1110" as="sourcePoint" />
             <mxPoint x="415.5" y="1110" as="targetPoint" />
