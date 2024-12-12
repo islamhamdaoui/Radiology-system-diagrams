@@ -53,10 +53,10 @@
         <mxCell id="uspyjHkv_OmER8Pbdpwl-23" value="" style="group;strokeWidth=1;strokeColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="53" y="225" width="797" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="xXfKLty5Zs9jjBdqHuuh-8" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeColor=default;strokeWidth=0.7;" vertex="1" parent="uspyjHkv_OmER8Pbdpwl-23">
+        <mxCell id="xXfKLty5Zs9jjBdqHuuh-8" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeColor=default;strokeWidth=0.7;" parent="uspyjHkv_OmER8Pbdpwl-23" vertex="1">
           <mxGeometry x="-33" y="8.074792243767314" width="830" height="256.9252077562327" as="geometry" />
         </mxCell>
-        <mxCell id="xXfKLty5Zs9jjBdqHuuh-9" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Ajouter un compte&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uspyjHkv_OmER8Pbdpwl-23">
+        <mxCell id="xXfKLty5Zs9jjBdqHuuh-9" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Ajouter un compte&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="uspyjHkv_OmER8Pbdpwl-23" vertex="1">
           <mxGeometry x="-62" y="47.998305084745766" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uspyjHkv_OmER8Pbdpwl-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Ajouter un compte&quot;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
@@ -113,7 +113,7 @@
             <mxPoint x="432" y="636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-40" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Afficher le formulaire avec&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;l&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;es informations du compte&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-40" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher le formulaire avec&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;les informations du compte&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="411.25" y="676" as="sourcePoint" />
             <mxPoint x="110" y="676" as="targetPoint" />
@@ -166,7 +166,7 @@
             <mxPoint x="415.5" y="936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-53" value="Afficher la liste mise à jour des comptes" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-53" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher la liste mise à jour des comptes&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="412.25" y="826" as="sourcePoint" />
             <mxPoint x="111" y="826" as="targetPoint" />
@@ -212,7 +212,7 @@
             <mxPoint x="422.6666666666665" y="1118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-61" value="Afficher la liste mise à jour des comptes" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher la liste mise à jour des comptes&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="421.25" y="1147" as="sourcePoint" />
             <mxPoint x="102.66666666666652" y="1147.0000000000002" as="targetPoint" />
@@ -233,25 +233,25 @@
             <mxPoint x="422.5" y="1219.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher la liste sans supprimer&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-65" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Afficher la liste sans supprimer&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="421.25" y="1260" as="sourcePoint" />
             <mxPoint x="102.66666666666652" y="1260.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXfKLty5Zs9jjBdqHuuh-4" value="" style="group;strokeWidth=0.7;" vertex="1" connectable="0" parent="1">
+        <mxCell id="xXfKLty5Zs9jjBdqHuuh-4" value="" style="group;strokeWidth=0.7;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-19" y="877" width="869" height="413" as="geometry" />
         </mxCell>
-        <mxCell id="xXfKLty5Zs9jjBdqHuuh-1" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="xXfKLty5Zs9jjBdqHuuh-4">
+        <mxCell id="xXfKLty5Zs9jjBdqHuuh-1" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="xXfKLty5Zs9jjBdqHuuh-4" vertex="1">
           <mxGeometry x="39" width="830" height="413" as="geometry" />
         </mxCell>
-        <mxCell id="xXfKLty5Zs9jjBdqHuuh-2" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Supprimer un compte&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xXfKLty5Zs9jjBdqHuuh-4">
+        <mxCell id="xXfKLty5Zs9jjBdqHuuh-2" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Supprimer un compte&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xXfKLty5Zs9jjBdqHuuh-4" vertex="1">
           <mxGeometry y="40" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXfKLty5Zs9jjBdqHuuh-6" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=0.7;" vertex="1" parent="1">
+        <mxCell id="xXfKLty5Zs9jjBdqHuuh-6" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=0.7;" parent="1" vertex="1">
           <mxGeometry x="21" y="510" width="830" height="349.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="xXfKLty5Zs9jjBdqHuuh-7" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Modifier un compte&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xXfKLty5Zs9jjBdqHuuh-7" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Modifier un compte&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-16" y="549.9983050847458" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
