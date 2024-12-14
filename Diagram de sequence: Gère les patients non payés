@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-53" value="Utilisateur" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-53" value="Réceptionniste" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="63" y="89" width="100" height="981" as="geometry" />
         </mxCell>
         <mxCell id="Z_3ndyJjv1a0dJsQa1vc-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Z_3ndyJjv1a0dJsQa1vc-53">
@@ -37,25 +37,26 @@
         <mxCell id="Z_3ndyJjv1a0dJsQa1vc-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Consulter&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="378" y="163" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-74" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Modifier&quot; sur un service&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-74" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Modifier&quot; sur un&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;patient&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="122" y="300" as="sourcePoint" />
             <mxPoint x="425.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-75" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Charger les informations du service&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-75" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Charger les informations du patient non payé&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="442" y="330" as="sourcePoint" />
             <mxPoint x="744" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-76" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Envoyer les informations du service&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-76" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Envoyer les informations du patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="743.25" y="370" as="sourcePoint" />
             <mxPoint x="442" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher le formulaire avec&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;les informations du service&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher le formulaire avec&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;les informations du patient&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="421.25" y="410" as="sourcePoint" />
             <mxPoint x="120" y="410" as="targetPoint" />
@@ -70,7 +71,7 @@
         <mxCell id="Z_3ndyJjv1a0dJsQa1vc-79" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="744.25" y="480" width="17.5" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-80" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mettre à jour les informations du service&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-80" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mettre à jour les informations du patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="442" y="490" as="sourcePoint" />
             <mxPoint x="744" y="490" as="targetPoint" />
@@ -102,13 +103,13 @@
             <mxPoint x="761.75" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-84" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Supprimer&quot; sur un service&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-84" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cliquer sur &quot;Supprimer&quot; sur un patient&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="122" y="660" as="sourcePoint" />
             <mxPoint x="425.5" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-85" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Afficher la liste des services mise à jour&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-85" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Afficher la liste des&amp;nbsp;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;patients non payés&amp;nbsp;&lt;/span&gt;mise à jour&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="422.25" y="560" as="sourcePoint" />
             <mxPoint x="121" y="560" as="targetPoint" />
@@ -117,7 +118,7 @@
         <mxCell id="Z_3ndyJjv1a0dJsQa1vc-86" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=none;" vertex="1" parent="1">
           <mxGeometry x="63" y="689" width="737" height="321" as="geometry" />
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-87" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Demander confirmation pour supprimer le service&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-87" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Demander confirmation pour&lt;/font&gt;&amp;nbsp;supprimer le patient non payé&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="431.25" y="739" as="sourcePoint" />
             <mxPoint x="112.66666666666652" y="738.9999999999998" as="targetPoint" />
@@ -132,7 +133,7 @@
             <mxPoint x="432.5" y="778.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-90" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Supprimer le service de la base de données&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-90" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Supprimer le patient de la base de données&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="434" y="809" as="sourcePoint" />
             <mxPoint x="752.5" y="808.9999999999998" as="targetPoint" />
@@ -187,8 +188,8 @@
         <mxCell id="Z_3ndyJjv1a0dJsQa1vc-100" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeColor=default;strokeWidth=0.7;" vertex="1" parent="Z_3ndyJjv1a0dJsQa1vc-99">
           <mxGeometry x="-33" y="24.868844763008983" width="830" height="336.20115523699104" as="geometry" />
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-101" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Modifier un service&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z_3ndyJjv1a0dJsQa1vc-99">
-          <mxGeometry x="-68" y="67.06830508474576" width="120" height="30" as="geometry" />
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-101" value="Modifier un&amp;nbsp;&lt;div&gt;patient&amp;nbsp;&lt;/div&gt;&lt;div&gt;non payé&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z_3ndyJjv1a0dJsQa1vc-99">
+          <mxGeometry x="-41" y="52.06830508474576" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_3ndyJjv1a0dJsQa1vc-102" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="63" y="578" width="797" height="447" as="geometry" />
@@ -196,8 +197,8 @@
         <mxCell id="Z_3ndyJjv1a0dJsQa1vc-103" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeColor=default;strokeWidth=0.7;" vertex="1" parent="Z_3ndyJjv1a0dJsQa1vc-102">
           <mxGeometry x="-33" y="27.7873088571884" width="830" height="416.21269114281165" as="geometry" />
         </mxCell>
-        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-104" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Supprimer un service&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z_3ndyJjv1a0dJsQa1vc-102">
-          <mxGeometry x="-72" y="66.99969610568962" width="140" height="30" as="geometry" />
+        <mxCell id="Z_3ndyJjv1a0dJsQa1vc-104" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Supprimer un&amp;nbsp;&lt;/span&gt;patient&lt;div&gt;&amp;nbsp;non payé&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z_3ndyJjv1a0dJsQa1vc-102">
+          <mxGeometry x="-66" y="62.99969610568962" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
