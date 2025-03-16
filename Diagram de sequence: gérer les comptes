@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uspyjHkv_OmER8Pbdpwl-1" value="Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#7EA6E0;strokeColor=default;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="uspyjHkv_OmER8Pbdpwl-1" value="Médecin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#7EA6E0;strokeColor=default;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="53" y="79" width="100" height="1271" as="geometry" />
         </mxCell>
         <mxCell id="uspyjHkv_OmER8Pbdpwl-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#D7D2D6;strokeColor=none;" parent="uspyjHkv_OmER8Pbdpwl-1" vertex="1">
